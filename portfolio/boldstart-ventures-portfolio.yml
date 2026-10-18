@@ -1,0 +1,892 @@
+generated: '2026-10-18'
+method: searched
+source: https://boldstart.vc/companies/
+note: Current curated list from /companies/ (with domains) merged with the per-company archive pages listed
+  in https://boldstart.vc/llms.txt (names only, no homepage URLs). sector for archive-only companies is
+  a coarse placeholder.
+summary:
+  portfolio_total: 88
+  in_network: 41
+  api_providers: 20
+  missing: 47
+  stubs_created: 0
+companies:
+- name: Snyk
+  url: https://snyk.io
+  description: Developer-first security
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: snyk
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Keycard
+  url: https://keycard.sh
+  description: Identity & access for AI agents
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: keycard
+  in_network: false
+  is_api_provider: false
+- name: Reco AI
+  url: https://www.reco.ai
+  description: AI agent & SaaS security
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: reco
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lava
+  url: https://lavahq.io
+  description: Data center & GPU security
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: lava
+  in_network: false
+  is_api_provider: false
+- name: Protect AI
+  url: https://protectai.com
+  description: AI security · Acquired by Palo Alto Networks
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/
+  slug: protectai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Joon
+  url: https://joon.co
+  description: Autonomous security operations
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: joon
+  in_network: false
+  is_api_provider: false
+- name: BigID
+  url: https://bigid.com
+  description: Data security & privacy
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: bigid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SecurityScorecard
+  url: https://securityscorecard.com
+  description: Security ratings
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: security-scorecard
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Humanix
+  url: https://humanix.ai
+  description: AI defense against social engineering
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: humanix
+  in_network: false
+  is_api_provider: false
+- name: Gain Security
+  url: https://gain.security
+  description: AI-native network security
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: gain-security
+  in_network: false
+  is_api_provider: false
+- name: Surf AI
+  url: https://surf.ai
+  description: Autonomous security exposure remediation
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: surf-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tessl
+  url: https://tessl.io
+  description: AI-native development
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: tesslio
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Spectro Cloud
+  url: https://spectrocloud.com
+  description: Infrastructure for AI, from cloud to edge
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: spectro-cloud
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: X5 Labs
+  url: https://x5labs.com
+  description: Digital twins & large work models
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: x5-labs
+  in_network: false
+  is_api_provider: false
+- name: Systalyze
+  url: https://www.systalyze.com
+  description: AI performance & cost optimization
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: systalyze
+  in_network: false
+  is_api_provider: false
+- name: Netpreme
+  url: https://netpreme.com
+  description: AI-native memory systems & silicon
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: netpreme
+  in_network: false
+  is_api_provider: false
+- name: Grepr
+  url: https://www.grepr.ai
+  description: Operational reliability for the AI era
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: grepr
+  in_network: false
+  is_api_provider: false
+- name: Uare.ai
+  url: https://uare.ai
+  description: Individual AI models built around you
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: uare-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Baz
+  url: https://baz.co
+  description: AI code review for agent-driven development
+  sector: ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: baz-technologies
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Generalist AI
+  url: https://generalistai.com
+  description: General-purpose robotics
+  sector: physical-ai
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: generalist-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Topos Bio
+  url: https://www.toposbio.ai
+  description: AI drug discovery for disordered proteins
+  sector: physical-ai
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: topos-bio
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Clay
+  url: https://clay.com
+  description: GTM engineering
+  sector: ai-agents
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: clay-com
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CrewAI
+  url: https://crewai.com
+  description: Multi-agent platform
+  sector: ai-agents
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  slug: crewai-cloud
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Superhuman
+  url: https://superhuman.com
+  description: AI email · Acquired by Grammarly
+  sector: ai-agents
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/
+  slug: superhuman
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Superpilot Labs
+  url: https://www.superpilot.com
+  description: Marketing agent for commerce brands
+  sector: ai-agents
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: superpilot-labs
+  in_network: false
+  is_api_provider: false
+- name: Octavia
+  url: https://www.octaviatech.com
+  description: AI-native mineral exploration
+  sector: other
+  stage: unknown
+  status: active
+  source: https://boldstart.vc/companies/
+  suggested_slug: octavia
+  in_network: false
+  is_api_provider: false
+- name: Agentuity
+  description: Cloud infrastructure rebuilt for AI agents
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/agentuity-cloud-infra-rebuilt-for-agents/
+  slug: agentuity
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Amberdata
+  description: Leading provider of institutional grade on-chain data, market data, metrics, and signals.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/amberdata/
+  slug: amberdata
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: AtomicJar
+  description: Integration testing made easier for developers
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/atomicjar/
+  slug: atomicjar
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Auxon
+  description: Continuous Verification & Validation for Cyber-Physical Systems
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/auxon/
+  suggested_slug: auxon
+  in_network: false
+  is_api_provider: false
+- name: Blaze Software
+  description: Infrastructure service to speed up delivery of web pages to mobile devices
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/blaze-software/
+  suggested_slug: blaze-software
+  in_network: false
+  is_api_provider: false
+- name: Blockdaemon
+  description: Largest independent blockchain infrastructure platform connecting institutions and developers
+    to leading networks.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/blockdaemon/
+  slug: blockdaemon
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cape AI
+  description: Agentic AI for financial institutions
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/cape-ai/
+  suggested_slug: cape-ai
+  in_network: false
+  is_api_provider: false
+- name: Catalytic, Inc.
+  description: Connecting people, data, and systems through low-code, automated workflows
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/catalytic-inc/
+  suggested_slug: catalytic-inc
+  in_network: false
+  is_api_provider: false
+- name: ChangeTip
+  description: World's first bitcoin based micro-payments platform
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/changetip/
+  slug: changetip
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: CloudQuery
+  description: The open-source cloud asset inventory powered by SQL.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/cloudquery/
+  slug: cloudquery
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Common Paper
+  description: Contracts as APIs – programmatically accessible and built on open-source standards to close
+    sales faster.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/commonpaper/
+  slug: common-paper
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cycle
+  description: An all-in-one tool dedicated to product-centric teams.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/cycle/
+  slug: cycle
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Divide (fka Enterproid)
+  description: Mobile enterprise platform that separates work and personal applications on a single device
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/divide-fka-enterproid/
+  suggested_slug: divide-fka-enterproid
+  in_network: false
+  is_api_provider: false
+- name: dope.security
+  description: fly-direct Secure Web Gateway (SWG)
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/dope-security/
+  slug: dopesecurity
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: dylibso (MCP.run)
+  description: a [new AI runtime, MCP.run,](http://mcp.run) to execute your Prompts + Tools, enabling
+    you to build all kinds of smart microservices, workflows, automation & more.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/dylibso/
+  suggested_slug: dylibso-mcprun
+  in_network: false
+  is_api_provider: false
+- name: EnvZero
+  description: Environments as a service platform for infrastructure as code
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/envzero/
+  suggested_slug: envzero
+  in_network: false
+  is_api_provider: false
+- name: CodeYam
+  description: AI software simulator that accelerates software teams
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/ethos/
+  suggested_slug: codeyam
+  in_network: false
+  is_api_provider: false
+- name: Fireblocks
+  description: Leading crypto custody provider to securely manage digital assets
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/fireblocks/
+  slug: fireblocks
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: FortressIQ
+  description: FortressIQ delivers human-level observability into the processes behind every strategic
+    business initiative
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/fortressiq/
+  suggested_slug: fortressiq
+  in_network: false
+  is_api_provider: false
+- name: Front
+  description: Customer communication platform that combines emails, apps, and teammates into a single
+    view
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/front/
+  slug: front
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: GoInstant
+  description: SaaS for screen sharing/co-browsing with no download required, sold as customer support/sales
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/goinstant/
+  slug: goinstant
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Harbr Data
+  description: Platform for enterprises to securely distribute and collaborate on data
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/harbr-data/
+  suggested_slug: harbr-data
+  in_network: false
+  is_api_provider: false
+- name: Hypernative
+  description: CryptoSecOps platform stops zero day Web3 cyber attacks
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/hypernative/
+  slug: hypernative
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: HYPR Corporation
+  description: First authentication platform designed to eliminate passwords and shared secrets across
+    the enterprise
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/hypr-corporation/
+  suggested_slug: hypr-corporation
+  in_network: false
+  is_api_provider: false
+- name: Init.ai
+  description: Platform that makes building conversational applications fast and simple for developers
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/init-ai/
+  suggested_slug: initai
+  in_network: false
+  is_api_provider: false
+- name: IOpipe, Inc.
+  description: Monitoring and function debugging for serverless platforms
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/iopipe-inc/
+  suggested_slug: iopipe-inc
+  in_network: false
+  is_api_provider: false
+- name: Jeli
+  description: Jeli is the first dedicated incident analysis platform that combines comprehensive data
+    to deliver smarter full stack incident response.
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/jeli/
+  suggested_slug: jeli
+  in_network: false
+  is_api_provider: false
+- name: Jit
+  description: Minimal Viable Security for Developers
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/jit-io/
+  suggested_slug: jit
+  in_network: false
+  is_api_provider: false
+- name: Kumospace
+  description: Reimagining video chat to be as immersive and fun as possible.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/kumospace/
+  slug: kumospace
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Kustomer
+  description: Customer service CRM platform for managing high support volume effortlessly
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/kustomer/
+  slug: kustomer
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Liveblocks
+  description: ''
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/liveblocks/
+  slug: liveblocks
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Manifold
+  description: Developer services marketplace
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/manifold/
+  slug: manifold
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Memphis
+  description: Memphis.dev is an intelligent, frictionless message broker. Made to enable developers to
+    build real-time and streaming features fast.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/memphisdev/
+  suggested_slug: memphis
+  in_network: false
+  is_api_provider: false
+- name: MState
+  description: Growth lab for enterprise blockchain companies.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/mstate/
+  suggested_slug: mstate
+  in_network: false
+  is_api_provider: false
+- name: Noded
+  description: Noded AI is an AI native agentic platform changing how we approach the customer journey.
+    Plug in email, transcripts, CRM, ticketing, etc and Noded drives action across the customer lifecycle.
+    You awake to status and key next steps as you onboard customers. Expansion opportunities identified
+    for you real-time with automated actions awaiting your approval. Risk assessments happen automatically,
+    with why a customer has gone from green to red with key actions needed and identified owners. What
+    is happening with your customers. Why it is happening. AND next steps ready to be done for you. Radical
+    time savings across the customer journey.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/noded/
+  suggested_slug: noded
+  in_network: false
+  is_api_provider: false
+- name: Olympix
+  description: Securing Web3 and unlocking efficiency, safety, and peace of mind for millions of developers.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/olympix/
+  suggested_slug: olympix
+  in_network: false
+  is_api_provider: false
+- name: Optic
+  description: Developer first tooling for OpenAPI that makes working with microservices easy.
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/optic/
+  slug: optic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Companies · Page 2
+  description: 20 published entries
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/page/2/
+  suggested_slug: companies-page-2
+  in_network: false
+  is_api_provider: false
+- name: Companies · Page 3
+  description: 20 published entries
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/page/3/
+  suggested_slug: companies-page-3
+  in_network: false
+  is_api_provider: false
+- name: Companies · Page 4
+  description: 18 published entries
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/page/4/
+  suggested_slug: companies-page-4
+  in_network: false
+  is_api_provider: false
+- name: Rapportive
+  description: First application platform built inside of google apps, first product rapportive real-time
+    contextual data inside email
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/rapportive/
+  slug: rapportive
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: RebelMail
+  description: API and platform for interactive emails with real-time analytics
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/rebelmail/
+  suggested_slug: rebelmail
+  in_network: false
+  is_api_provider: false
+- name: Replicated, Inc.
+  description: Kubernetes Native Solution for Delivering Modern On-prem
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/replicated-inc/
+  suggested_slug: replicated-inc
+  in_network: false
+  is_api_provider: false
+- name: Roadie
+  description: A hosted developer portal and service catalog built on Spotify's backstage that helps engineering
+    teams scale.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/roadie/
+  suggested_slug: roadie
+  in_network: false
+  is_api_provider: false
+- name: Robin Powered, Inc.
+  description: Cloud-based workplace scheduling, management, and analytics software
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/robin-powered-inc/
+  suggested_slug: robin-powered-inc
+  in_network: false
+  is_api_provider: false
+- name: Slim.AI, Inc.
+  description: Slim enables developers to create, build, deploy, and run their cloud native apps with
+    zero friction, complexity, and waste
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/slim-ai-inc/
+  suggested_slug: slimai-inc
+  in_network: false
+  is_api_provider: false
+- name: Sling
+  description: Easiest way to schedule and communicate with your hourly employees
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/sling/
+  suggested_slug: sling
+  in_network: false
+  is_api_provider: false
+- name: Smallstep
+  description: Automated Certificate Management for DevSecOps
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/smallstep-labs-inc/
+  slug: smallstep
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: StakeWise
+  description: liquid staking protocol on Ethereum enabling any Ether holder to earn a passive yield by
+    staking without capital lock-up
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/stakewise/
+  suggested_slug: stakewise
+  in_network: false
+  is_api_provider: false
+- name: Steadybit
+  description: shift left chaos engineering made easy
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/steadybit/
+  suggested_slug: steadybit
+  in_network: false
+  is_api_provider: false
+- name: Stellate
+  description: Reliable GraphQL APIs at any scale
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/stellate/
+  slug: stellate
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tilt
+  description: Productivity for teams building Kubernetes apps
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/tilt/
+  slug: tilt
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tres
+  description: first enterprise-grade financial data lake for Web3 companies
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/tres/
+  suggested_slug: tres
+  in_network: false
+  is_api_provider: false
+- name: Upstream
+  description: The simplest way to start and manage a DAO.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/upstream/
+  slug: upstream
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: UtilizeCore
+  description: Service Management Automation Platform
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/utilizecore/
+  suggested_slug: utilizecore
+  in_network: false
+  is_api_provider: false
+- name: WALDO
+  description: Waldo is an agentic platform for marketing agencies and brand teams.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/waldo/
+  slug: waldo
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Wallaroo Labs
+  description: High-performance stream processing platform, that accelerates time to value in data projects
+    and reduces costs significantly
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/wallaroo-labs/
+  suggested_slug: wallaroo-labs
+  in_network: false
+  is_api_provider: false
+- name: Wonder
+  description: Researchers on demand for individuals and teams
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/wonder/
+  slug: wonder
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: xNilio
+  description: On a mission to make better machines.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/xnilio/
+  suggested_slug: xnilio
+  in_network: false
+  is_api_provider: false
+- name: Yhat, Inc.
+  description: Platform for data scientists to build and deploy ML/AI models
+  sector: enterprise-software
+  stage: unknown
+  status: acquired
+  source: https://boldstart.vc/companies/yhat-inc/
+  suggested_slug: yhat-inc
+  in_network: false
+  is_api_provider: false
+- name: Yipit Data
+  description: Tracking and analysing web data for institutional investors
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/yipit-data/
+  suggested_slug: yipit-data
+  in_network: false
+  is_api_provider: false
+- name: Zuplo
+  description: Reinventing API management so that startups and enterprises can add authentication, analytics,
+    rate-limiting, and developer documentation to their APIs in minutes.
+  sector: enterprise-software
+  stage: unknown
+  status: unknown
+  source: https://boldstart.vc/companies/zuplo/
+  slug: zuplo
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
